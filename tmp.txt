@@ -1,0 +1,432 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+	
+		                   
+    	                        
+                
+        <link rel="stylesheet" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.7/themes/smoothness/jquery-ui.css" type="text/css" media="screen">
+
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.7/jquery-ui.min.js"></script>
+
+ 
+                   
+        
+            	        
+        <title>ВЕНЧУРНЫЙ ИНВЕСТОР</title>        <link href="/content/css/style.css" media="screen" rel="stylesheet" type="text/css" >
+<!--[if lt IE 7]> <link href="/content/css/ie7.css" media="screen" rel="stylesheet" type="text/css" ><![endif]-->
+<!--[if lt IE 8]> <link href="/content/css/ie8.css" media="screen" rel="stylesheet" type="text/css" ><![endif]-->            
+       <script type="text/javascript" src="/content/js/PIE.js"></script>
+<script type="text/javascript" src="/content/js/html5support.js"></script>
+<script type="text/javascript" src="/content/js/jquery.main.js"></script>
+<script type="text/javascript" src="/content/js/headslider.js"></script>      
+          	  
+	</head>
+	<body>
+		<div id="page" class="home">
+			<div class="w1">
+				<div class="w2">
+					<div id="header">
+						<strong class="logo"><a href="/">Венчурный инвестор</a></strong>
+						<div class="navigation">
+							<ul id="nav">
+								    
+     
+          
+                   
+          <li class=""><a href="/about">О журнале</a></li>
+                   
+          <li class=""><a href="/news">Новости</a></li>
+                   
+          <li class=""><a href="/photo">Галерея</a></li>
+                   
+          <li class=""><a href="/events">Мероприятия</a></li>
+                   
+          <li class=""><a href="/subscribe">Реклама</a></li>
+                   
+          <li class=""><a href="/podpiska">Подписка</a></li>
+                    
+      
+    
+     							</ul>
+						</div>
+					</div>
+					<div id="main">
+						<div class="promo-block">
+							<div class="l-col">
+                                             
+				                <div class="slideshow">
+									<div class="holder" id="firstholder">
+										<ul>
+                                                                                                											<li class="active">
+                                                        <img class='img-l' src='/_work/image/small/topbanners_21_image.jpg' width='620' height='333' />                                                 </li>
+                                                                                                											<li >
+                                                        <img class='img-l' src='/_work/image/small/topbanners_22_image.jpg' width='620' height='333' />                                                 </li>
+                                            										</ul>
+									</div>
+									<div class="switcher">
+										<ul>
+                                                                                              <li class="active"><a href="#">1</a></li>
+                                                                                              <li ><a href="#">2</a></li>
+                                            										</ul>
+									</div>
+								</div>
+                                    <div class="holder" id="bantext">
+										<ul style="padding-left: 0;">
+                                                                                        <li class="active">
+                                              <h1><a href=""></a></h1>
+          								      <p><div>
+	&laquo;Выражаю благодарность коллективу делового журнала &laquo;Венчурный инвестор&raquo; за плодотворное сотрудничество в рамках третьей Международной конференции по обеспечению роста инвестиций в России &laquo;ИнвестРос&raquo;, которая состоялась 14-15 апреля 2016 г. в Москве под патронатом Совета по инвестициям при Председателе Государственной Думы, при поддержке Петербургского международного экономического форума и Консультативного совета по иностранным инвестициям в России.</div>
+<div>
+	Ваш неоценимый вклад в информирование общественности позволил повысить значимость конференции и способствовал ее проведению на высоком уровне&raquo;.</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	<em>С глубоким уважением,</em></div>
+<div>
+	<em>Член Совета по инвестициям&nbsp;</em></div>
+<div>
+	<em>при Председателе Государcтвенной Думы,</em></div>
+<div>
+	<em>Помощник Председателя&nbsp;</em></div>
+<div>
+	<em>Государственной Думы</em></div>
+<div>
+	<em>С.Т. Ходько</em></div>
+</p>
+								            </li>
+                                                                                        <li >
+                                              <h1><a href=""></a></h1>
+          								      <p><div>
+	<div>
+		Более 10 лет деловой журнал &laquo;Венчурный инвестор&raquo; выступает информационным партнером бизнес-мероприятий в области инноваций и новых технологий:</div>
+	<div>
+		&nbsp;</div>
+	<div>
+		&nbsp; &nbsp; &bull; Премия в области импортозамещения &laquo;Приоритет&raquo; (Москва, Общественная палата РФ, 2019)</div>
+	<div>
+		&nbsp; &nbsp; &bull; Форум &laquo;Экосистема инноваций&raquo; (Сочи, отель &laquo;Radisson Rosa Khutor&raquo;, 2016)</div>
+	<div>
+		&nbsp; &nbsp; &bull; Форум по интеллектуальной собственности &laquo;Expopriority&raquo; (Москва, ЦВК &laquo;Экспоцентр&raquo;, 2013)</div>
+	<div>
+		&nbsp; &nbsp; &bull; Конференция &laquo;Инновации управления капиталом&raquo; (Москва, Московская Биржа, 2018)</div>
+	<div>
+		&nbsp; &nbsp; &bull; Конференция &laquo;ИнвестРос&raquo; (Москва, отель &laquo;Four Seasons&raquo;, 2016)</div>
+	<div>
+		&nbsp; &nbsp; &bull; Форум &laquo;Российская кластерная неделя&raquo; (Москва, Центр международной торговли, 2015)</div>
+	<div>
+		&nbsp; &nbsp; &bull; Акселерационная программа &laquo;Формула НЕФТЕГАЗ&raquo; (Москва, МГУ им. М.В. Ломоносова, 2020)&nbsp;</div>
+	<div>
+		&nbsp; &nbsp; &bull; Академический курс по блокчейну &laquo;Блокчейн 2.0&raquo; (Москва, РЭУ им. Г.В. Плеханова, 2018)</div>
+	<div>
+		&nbsp; &nbsp; &bull; Конференция &laquo;Russian Tech Week&raquo; (Москва, технопарк &laquo;Сколково&raquo;, 2019) и др.</div>
+</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+</p>
+								            </li>
+                                            										</ul>
+									</div>
+                                    <style>
+                                    #bantext{}
+                                    #bantext li{display:none;}
+                                    #bantext li.active{display:block;}
+                                    </style>
+                                    <script type="text/javascript">
+                                    $(document).ready(function(){
+                                        var need; // сюда нужно переключить
+                                        $('.switcher li').click(function(){
+                                           need = $(this).text();
+                                           $('.holder ul li').css('display','none');      
+                                           $('#firstholder ul li').eq(need-1).css('display','block');  
+                                            $('#bantext ul li').eq(need-1).css('display','block');   
+                                            $('.switcher li').removeClass('active');
+                                            $(this).addClass('active');
+                                            return false;               
+                                        });                                      
+                                    });
+                                    </script>
+								
+			
+              							 <!--	<div class="slideshow">
+									<div class="holder">
+										<ul>
+											<li class="active"><img alt="image description" src="images/s-img01.jpg" width="620" height="333" /></li>
+											<li><img alt="image description" src="images/s-img01.jpg" width="620" height="333" /></li>
+											<li><img alt="image description" src="images/s-img01.jpg" width="620" height="333" /></li>
+										</ul>
+									</div>
+									<div class="switcher">
+										<ul>
+											<li class="active"><a href="#">1</a></li>
+											<li><a href="#">2</a></li>
+											<li><a href="#">3</a></li>
+										</ul>
+									</div>
+								</div>
+								<h1><a href="#">Инновационный супермаркет</a></h1>
+								<p>«В 20 лет у тебя много идей, но, как правило, нет денег, а в 40 – есть деньги, но уже нет идей»,– философски заметил один из участников обсуждения новой инициативы Пермской торгово-промышленной палаты.</p>
+								<div class="meta-box">
+									<span class="date">12 июля 2012</span>
+									<a class="comments" href="#">17</a>
+									<a class="views" href="#">25</a>
+								</div> -->
+							</div>
+							<div class="r-col">
+								<div class="news-box">
+                                    
+									<h2>НОВОСТИ</h2>
+									              <div class="unit">
+					<div class="illustration">
+                        						<a href="#"><img class='img-l' src='/_work/image/small/news_197_image.jpg' width='152' height='148' /></a>
+					</div>
+										<div class="description">
+											<h3><a href="/news/197">Участники программы «Формула IT» представили созданные проекты на рассмотрение инвестиционного сообщества</a></h3>
+																						<div class="meta-box">
+												<span class="date">20&nbsp;июля&nbsp;2021</span>
+												<a class="comments" href="/news/197#comments">0</a>
+												<a class="views" href="#">227</a>
+											</div>
+										</div>
+			</div>
+                            <div class="unit">
+					<div class="illustration">
+                        						<a href="#"><img class='img-l' src='/_work/image/small/news_196_image.jpg' width='152' height='148' /></a>
+					</div>
+										<div class="description">
+											<h3><a href="/news/196">27 - 28 октября в Москве состоится 7-ой Международный форум по блокчейну, криптовалютам и майнингу — Blockchain Life 2021     </a></h3>
+																						<div class="meta-box">
+												<span class="date">16&nbsp;июля&nbsp;2021</span>
+												<a class="comments" href="/news/196#comments">0</a>
+												<a class="views" href="#">1599</a>
+											</div>
+										</div>
+			</div>
+                            <div class="unit">
+					<div class="illustration">
+                        						<a href="#"><img class='img-l' src='/_work/image/small/news_193_image.png' width='152' height='148' /></a>
+					</div>
+										<div class="description">
+											<h3><a href="/news/193">РЭУ им. Г.В Плеханова совместно с CH Holding открыли программу повышения квалификации в области блокчейн – технологий</a></h3>
+																						<div class="meta-box">
+												<span class="date">12&nbsp;апреля&nbsp;2021</span>
+												<a class="comments" href="/news/193#comments">0</a>
+												<a class="views" href="#">1435</a>
+											</div>
+										</div>
+			</div>
+                            <div class="unit">
+					<div class="illustration">
+                        						<a href="#"><img class='img-l' src='/_work/image/small/news_190_image.png' width='152' height='148' /></a>
+					</div>
+										<div class="description">
+											<h3><a href="/news/190">«Private Equity and M&A» соберет вместе представителеи&#774; фондов прямых инвестиции&#774;, семеи&#774;ных офисов, инвестиционных банков, инвестиционно-промышленных групп, частных инвесторов</a></h3>
+																						<div class="meta-box">
+												<span class="date">10&nbsp;февраля&nbsp;2021</span>
+												<a class="comments" href="/news/190#comments">0</a>
+												<a class="views" href="#">1700</a>
+											</div>
+										</div>
+			</div>
+                            <div class="unit">
+					<div class="illustration">
+                        						<a href="#"><img class='img-l' src='/_work/image/small/news_189_image.jpg' width='152' height='148' /></a>
+					</div>
+										<div class="description">
+											<h3><a href="/news/189">В Большом зале Общественной палаты РФ в Москве объявлены лауреаты Национальной Премии в области эффективного применения передовых технологий «Приоритет 2.0»</a></h3>
+																						<div class="meta-box">
+												<span class="date">30&nbsp;ноября&nbsp;2020</span>
+												<a class="comments" href="/news/189#comments">0</a>
+												<a class="views" href="#">2520</a>
+											</div>
+										</div>
+			</div>
+              								</div>
+							</div>
+						</div>
+						<div class="main-block">
+							<div class="main-col">
+								<script>
+$(document).ready(function(){
+    for(var i = 0; i < 2; i ++){
+        var text = $('#catName_' + i).html().toUpperCase();
+        $('#catName_' + i).html(text);
+    }
+    
+})
+</script>
+            <div class="columns-box">
+                                                <div class="column">
+            						<h2><a href="/publications/50">Blockchain Life 2020</a></h2>
+            						<div class="holder">
+            							<div class="illustration">
+                                                         								<a href="/publications/50"><img class='img-l' src='/_work/image/small/publications_50_image.jpg' width='312' height='416' /></a>
+            							</div>
+            							<div class="description">
+                                                        								<h3><a id="catName_0" href="/publications/">[ Ви-персона ]</a></h3>
+            								<p><div>
+	21-22 октября 2020 года в Москве состоялся Форум Blockchain Life 2020 &mdash; главное оффлайн событие года в индустрии.</div>
+<div>
+	Несмотря на сложные COVID-реалии и закрытые границы, Форум посетили более 3000 участников.</div>
+<div>
+	Мировые лидеры индустрии, предприниматели, инвесторы и стартапы со всей России собрались вместе, чтобы обсудить текущие тренды и определить развитие индустрии на ближайшие годы.</div>
+<div>
+	На форуме были подписаны десятки контрактов между компаниями рынка, инвесторами и фондами.&nbsp;</div>
+<div>
+	Одним из ключевых спикеров Blockchain Life 2020 стал Анатолий Аксаков, глава комитета Госдумы по финансам.&nbsp;</div>
+</p>
+                                            <div class="meta-box">
+            									<span class="date">23&nbsp;октября&nbsp;2020</span>
+            									<a class="comments" href="/publications/50#comments">0</a>
+            									<a class="views" href="#">1286</a>
+            								</div>
+            							</div>
+            						</div>
+            					</div>                                
+                                                            <div class="column">
+            						<h2><a href="/publications/51">Russian Tech Week 2019</a></h2>
+            						<div class="holder">
+            							<div class="illustration">
+                                                         								<a href="/publications/51"><img class='img-l' src='/_work/image/small/publications_51_image.jpg' width='312' height='416' /></a>
+            							</div>
+            							<div class="description">
+                                                        								<h3><a id="catName_1" href="/publications/">[ Ви-персона ]</a></h3>
+            								<p><div>
+	В этом году мероприятие посетило 1800 человек, было представлено 240 докладов о цифровых технологиях, 55 российских и иностранных компаний презентовали свои технологические разработки для решений задач бизнеса.</div>
+<div>
+	На единой площадке состоялось 10 тематических потоков, где обсуждались актуальные вопросы в сфере: цифровой трансформации российского бизнеса, искусственного интеллекта, больших данных и машинного обучения, финансовых, блокчейн, регулятивных и HR-технологий, виртуальной и дополненной реальности, бизнес-аналитики, инвестиций в российские стартап-проекты.</div>
+</p>
+                                            <div class="meta-box">
+            									<span class="date">28&nbsp;мая&nbsp;2019</span>
+            									<a class="comments" href="/publications/51#comments">0</a>
+            									<a class="views" href="#">970</a>
+            								</div>
+            							</div>
+            						</div>
+            					</div>                                
+                                        </div>
+        <style>
+.small img{width:284px;height:143px;}
+</style>							</div>
+							<div class="side-col">
+                                								<div class="ad-box">
+								    <p>
+	<a href="http://zdravinvest.ru"><img alt="" src="/kcfinder/upload/images/250x334-0001.jpg" style="width: 250px; height: 334px;" /></a><br />
+	<br />
+	<br />
+	<br />
+	<br />
+	<br />
+	<br />
+	<br />
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<p>
+	<br />
+	<br />
+	&nbsp;</p>
+<p>
+	<br />
+	<br />
+	&nbsp;</p>
+								</div>
+                                								<div class="side-box person">
+									<h2><span>ПЕРСОНА</span></h2>
+									<div class="figure">
+										                                                  <img class='img-l' src='/_work/image/small/persons_24_image.jpeg' width='236' height='182' />							<h3><a href="">Олег Теплов, генеральный директор VEB Ventures:</a></h3>
+										<p>
+	- Наши корпорации должны научиться работать с открытыми инновациями, и здесь вся экосистема должна помочь им в этом. Важен уровень зрелости корпорации, какой продукт она может на себя взять: либо всю цепочку от акселератора до корпоративного венчурного фонда и M&amp;A, либо концентрируясь на лучших решениях искать уже готовые истории на рынке и поддерживать супер-команды, которые могут влиться в систему.&nbsp; Комьюнити должно быть открытым и комфортным для всех, никто не делает инновации в одиночку, это касается не только предпринимателей-стартаперов, но и фондов, и корпораций. Все должны быть в экосистеме. Если мы не будем жадными и будем готовы делиться, то проектов будет только больше, они будут качественнее и от этого выиграет весь рынок.</p>
+              									</div>
+								</div>
+                                                                							</div>
+						</div>
+						<div class="partners-block">
+							<h4>Партнеры</h4>
+							<div class="partners-holder">
+                                <table style="width: 100%;"><tr>
+							                                                                          <td style="text-align: center;border:none;;">
+                                                                                                                            <a href="/partners">
+                                                <img class='1' src='/_work/image/full/partners_60_footer_image.jpg' width='94' height='57' />                                            </a>
+                                                                                </td>
+                                                                    <td style="text-align: center;border:none;;">
+                                                                                                                            <a href="/partners">
+                                                <img class='1' src='/_work/image/full/partners_61_footer_image.jpg' width='94' height='57' />                                            </a>
+                                                                                </td>
+                                                                    <td style="text-align: center;border:none;;">
+                                                                                                                            <a href="/partners">
+                                                <img class='1' src='/_work/image/full/partners_66_footer_image.jpg' width='94' height='57' />                                            </a>
+                                                                                </td>
+                                                                    <td style="text-align: center;border:none;;">
+                                                                                                                            <a href="/partners">
+                                                <img class='1' src='/_work/image/full/partners_68_footer_image.jpg' width='94' height='57' />                                            </a>
+                                                                                </td>
+                                 
+                                </tr></table>
+							</div>
+						</div>
+					</div>
+					<div id="footer">
+						<div class="footer-set">
+							<strong class="logo"><a href="/">Венчурный инвестор</a></strong>
+							<div class="area">
+								<div class="contact-holder">
+								    <h6>
+	&nbsp;</h6>
+<p>
+	Москва, Пресненская наб.,12</p>
+<p>
+	Tel / Fax: +7 (499) 648-86-63</p>
+<p>
+	E-mail: info@v-investor.ru</p>
+<h6>
+	&nbsp;</h6>
+<p>
+	&nbsp;</p>
+								</div>
+								<div class="social-holder">
+									<h6>Присоединяйтесь</h6>
+									<ul class="social-networks">
+										<li><a href="http://ru-ru.facebook.com/" class="facebook">Facebook</a></li>
+										<li><a href="" class="vkontakte">Вконтакте</a></li>
+										<li><a href="" class="twiter">Twiter</a></li>
+									</ul>
+								</div>
+								<form class="search-form" action="/search2" method="GET">
+									<input class="text" type="text" name="query" />
+									<input class="btn-search" type="submit" value="Search" />
+								</form>
+							</div>
+							<div class="description">
+							     <p>
+	&nbsp;</p>
+<p>
+	&laquo;Венчурный инвестор&raquo; - одно из первых российских изданий, освещающее эффективность внедрения инновационных продуктов и технологий.&nbsp;&nbsp;</p>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+                            </div>
+						</div>
+						<div class="footer-spot">
+							<span class="design"><a href="http://amado-id.ru/">“Создание сайта Амадо”</a></span>
+							<p>Венчурный инвестор © 2010-2021</p> 
+</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>
